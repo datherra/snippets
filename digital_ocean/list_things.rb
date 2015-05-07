@@ -3,8 +3,6 @@ require 'awesome_print'
 
 token = ENV['DIGITALOCEAN_API_TOKEN']
 client = Barge::Client.new(access_token: token)
-# p client.image.all
-# p client.region.all
 
 region_images = []
 

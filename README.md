@@ -1,0 +1,2 @@
+# Scratch book
+This repo is the place where I'm throwing small things that I try here and there and, instead of keeping spread on my laptop and other computers that I work on, I'm versioning and centralizing here.
